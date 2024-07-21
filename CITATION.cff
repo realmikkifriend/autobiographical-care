@@ -1,0 +1,45 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Guide to Writing Autobiographical Case Reports
+message: >-
+    If you use this dataset, please cite it using the metadata
+    from this file.
+type: dataset
+authors:
+    - given-names: Mikki
+      family-names: Friend
+repository-code: 'https://github.com/realmikkifriend/autobiographical-care'
+url: 'https://github.com/REPLACE-WITH-LANDING-PAGE'
+abstract: >-
+    This guide explores considerations unique to the writing
+    of autobiographical case reports, and emphasizes the
+    importance of personal narratives in medical and academic
+    literature. While the existing CARE (CAse REport)
+    Guidelines provide a framework for traditional case
+    reports, they do not explicitly address self-reported
+    experiences. Autobiographical case reports enable
+    individuals, including patients, caregivers, and
+    professionals, to articulate their journeys through rare
+    or atypical conditions, contributing valuable insights to
+    clinical understanding and advocacy.
+
+
+    This guide serves to empower individuals from
+    underrepresented populations to document their
+    experiences, thereby enhancing self-advocacy and promoting
+    awareness of complex health challenges. Key reasons for
+    writing these reports include providing new information
+    about uncommon conditions, reflecting on significant
+    personal impacts, and addressing gaps in medical,
+    scientific, literary, and academic knowledge. These
+    self-reported narratives can inspire further research,
+    inform treatment practices, and embolden those who share
+    similar experiences.
+keywords:
+    - autobiography
+    - case reports
+license: CC-BY-SA-4.0
+version: 0.0.1
+date-released: '2024-07-22'
