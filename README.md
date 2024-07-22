@@ -10,12 +10,12 @@ This guide serves to empower individuals from underrepresented populations to do
 
 ## Table of Contents
 
-0. [Introduction](guide/introduction.md)
-1. [Special Considerations When Self-Reporting](guide/considerations.md)
-    - Ethics
-    - Style & Narrative Voice
-    - Adaptations By Section
-2. [Examples](guide/examples.md)
+-   [Introduction](guide/introduction.md)
+-   [Special Considerations When Self-Reporting](guide/considerations.md)
+    -   Ethics
+    -   Style & Narrative Voice
+    -   Adaptations By Section
+-   [Examples](guide/examples.md)
 
 Useful pages:
 
