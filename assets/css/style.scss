@@ -13,6 +13,17 @@ section > ul {
     margin-bottom: 22px;
 }
 
+/* CONTENT */
+
+blockquote {
+    padding-left: 2.5rem;
+}
+
+a.footnote {
+    vertical-align: super;
+    line-height: 1rem;
+}
+
 /* FOOTER */
 
 footer a {
