@@ -24,6 +24,17 @@ a.footnote {
     line-height: 1rem;
 }
 
+a.footnote:before {
+    content: '[';
+}
+a.footnote:after {
+    content: ']';
+}
+
+div[role='doc-endnotes']::before {
+    content: '<h2>References</h2>';
+}
+
 /* FOOTER */
 
 footer a {
