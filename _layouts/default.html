@@ -27,7 +27,7 @@
         <section>
             {% unless page.name == "README.md" %}
             <h1>Table of Contents</h1>
-            {% include toc.html html=content %}
+            {% include toc.html html=content h_min=2 %}
             {% endunless %}
             {{ content }}
         </section>
