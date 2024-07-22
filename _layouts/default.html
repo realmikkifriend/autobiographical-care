@@ -25,7 +25,11 @@
         </header>
 
         <section>
-            {% unless page.name == "README.md" or page.name == "examples.md" %}
+            {% unless page.name == "README.md"
+            or page.name == "examples.md"
+            or page.name == "CHANGES.md"
+            or page.name == "LICENSES.md"
+            or page.name == "AUTHORS.md" %}
             <h1>Table of Contents</h1>
             {% include toc.html html=content h_min=2 %}
             {% endunless %}
