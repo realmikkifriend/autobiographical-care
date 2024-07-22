@@ -25,13 +25,7 @@
         </header>
 
         <section>
-            {% capture headings %}
-            {% for heading in content %}
-            {{ heading | where: "level", 2 | size }}
-            {% endfor %}
-            {% endcapture %}
-            {% assign h2_count = headings | size %}
-            {% unless page.name == "README.md" or h2_count == 0 %}
+            {% unless page.name == "README.md" or page.name == "examples.md" %}
             <h1>Table of Contents</h1>
             {% include toc.html html=content h_min=2 %}
             {% endunless %}
