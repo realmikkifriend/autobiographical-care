@@ -4,7 +4,7 @@
 >
 > —Sir William Osler, a founding professor of Johns Hopkins Hospital (1889) and widely considered a forefather of modern medical education
 
-A case report is a write-up of a single case (e.g. medical, psychological), typically with novel or otherwise interesting features [^guideline]. Because they lack randomization and other experimental controls, they belong toward the bottom of the hierarchy of evidence. However, by describing the course of the case, i.e. background, clinical findings, interventions, and outcomes, professionals in many fields have been able to raise the alarm about emergent conditions, suggest modifications to diagnostic criteria, and advocate for the well-being of the laypeople in their care. Therefore, while limited, case reports are a valuable descriptive design.
+A case report is a write-up of a single case (e.g. medical, psychological), typically with novel or otherwise interesting features[^guideline]. Because they lack randomization and other experimental controls, they belong toward the bottom of the hierarchy of evidence. However, by describing the course of the case, i.e. background, clinical findings, interventions, and outcomes, professionals in many fields have been able to raise the alarm about emergent conditions, suggest modifications to diagnostic criteria, and advocate for the well-being of the laypeople in their care. Therefore, while limited, case reports are a valuable descriptive design.
 
 [^guideline]: Alsaywid, B. S., & Abdulhaq, N. M. (2019). Guideline on writing a case report. _Urology Annals, 11_(2), 126–131. https://doi.org/10.4103/UA.UA_177_18
 
