@@ -36,6 +36,11 @@ a.footnote:after {
     content: ']';
 }
 
+div[role='doc-endnotes'] {
+    background-color: rgb(17, 19, 19);
+    padding: 1rem;
+}
+
 /* FOOTER */
 
 footer a {
