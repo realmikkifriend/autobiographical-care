@@ -31,10 +31,6 @@ a.footnote:after {
     content: ']';
 }
 
-div[role='doc-endnotes']::before {
-    content: '<h2>References</h2>';
-}
-
 /* FOOTER */
 
 footer a {
