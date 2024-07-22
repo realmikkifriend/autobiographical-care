@@ -11,7 +11,7 @@ authors:
     - given-names: Mikki
       family-names: Friend
 repository-code: 'https://github.com/realmikkifriend/autobiographical-care'
-url: 'https://github.com/REPLACE-WITH-LANDING-PAGE'
+url: 'https://realmikkifriend.github.io/autobiographical-care/'
 abstract: >-
     This guide explores considerations unique to the writing
     of autobiographical case reports, and emphasizes the
@@ -44,11 +44,12 @@ license: CC-BY-SA-4.0
 version: 0.0.1
 date-released: '2024-07-22'
 preferred-citation:
-    type: article
+    type: website
     authors:
         - family-names: 'Friend'
           given-names: 'Mikki'
     journal: 'Github Pages'
-    month: 7
     title: 'Guide to writing autobiographical case reports'
     year: 2024
+    url: 'https://realmikkifriend.github.io/autobiographical-care/'
+    version: 0.0.1
