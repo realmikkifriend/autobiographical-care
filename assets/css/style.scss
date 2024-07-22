@@ -13,6 +13,16 @@ section > ul {
     margin-bottom: 22px;
 }
 
+/* HEADER */
+
+header li {
+    box-shadow: none;
+    background: none;
+    border: none;
+    width: fit-content;
+    list-style-type: circle;
+}
+
 /* FOOTER */
 
 footer a {
