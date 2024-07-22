@@ -20,6 +20,7 @@ This guide serves to empower individuals from underrepresented populations to do
 Useful pages:
 
 -   See [who's contributed to this project](AUTHORS.md).
--   Interested? Please view the [Code of Conduct](CODE_OF_CONDUCT.md) and then [add your thoughts and expertise to this project](CONTRIBUTING.md)!
+-   Interested? Please [add your thoughts and expertise to this project](CONTRIBUTING.md)!
+    -   All participants are expected to uphold the [Code of Conduct](CODE_OF_CONDUCT.md).
 -   View the [change log](CHANGES.md).
 -   Want to use this content elsewhere? See the [license](LICENSE.md).
