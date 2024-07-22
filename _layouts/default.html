@@ -20,12 +20,15 @@
 <body>
     <div class="wrapper">
         <header>
-            <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+            <h1 class="header"><a href="{{ site.baseurl | append: '/' }}">{{ site.title }}</a></h1>
             <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         </header>
 
         <section>
+            {% unless page.name == "README.md" %}
+            <h1>Table of Contents</h1>
             {% include toc.html html=content %}
+            {% endunless %}
             {{ content }}
         </section>
 
