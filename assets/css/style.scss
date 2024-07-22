@@ -7,17 +7,15 @@ body {
     background-color: #1c1c1c;
 }
 
-/* LISTS */
-
-ul {
-    margin-bottom: 0;
-}
-
-section > ul {
-    margin-bottom: 22px;
-}
-
 /* CONTENT */
+
+body,
+h1,
+h2,
+h3,
+h4 {
+    color: #d7d5d4;
+}
 
 section {
     font-size: 1.1rem;
@@ -43,6 +41,16 @@ a.footnote:after {
 div[role='doc-endnotes'] {
     background-color: rgb(17, 19, 19);
     padding: 1rem;
+}
+
+/* LISTS */
+
+ul {
+    margin-bottom: 0;
+}
+
+section > ul {
+    margin-bottom: 22px;
 }
 
 /* FOOTER */
