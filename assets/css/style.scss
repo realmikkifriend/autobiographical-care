@@ -3,10 +3,18 @@
 
 @import '{{ site.theme }}';
 
+/* LISTS */
+
 ul {
     margin-bottom: 0;
 }
 
 section ul {
     margin-bottom: 22px;
+}
+
+/* FOOTER */
+
+footer a {
+    display: inline;
 }
