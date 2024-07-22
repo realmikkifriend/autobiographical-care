@@ -1,0 +1,12 @@
+---
+---
+
+@import '{{ site.theme }}';
+
+ul {
+    margin-bottom: 0; /* Reset margin for all ul elements */
+}
+
+ul:not(:has(ul)) {
+    margin-bottom: 22px; /* Apply margin-bottom only to first-level ul elements */
+}
